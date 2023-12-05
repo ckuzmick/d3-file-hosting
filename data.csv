@@ -1,6 +1,7 @@
-Year,Event
-1857,Sepoy Rebellion
-1860,Natural resources and public spaces are now state property
+Year,Event,Description,Image
+1857,Sepoy Rebellion,"The Sepoy Rebellion took place in 1857, where many seperate sepoy troops stages mutinies in an attempt to stop social reforms, as well as hightened British control of land. The British successfully suppressed this rebellion, leading to the end of the Mughal Empire, and the transfer of rule entirely to the British Crown.",
+1858,The British Raj,"The end of the Sepoy Rebellion also marked the beginning of the British Raj (rule in english), which was the primary authority in India for the next 90 years.",https://upload.wikimedia.org/wikipedia/commons/4/47/Brit_IndianEmpireReligions3.jpg
+1860,Natural resources and public spaces are now state property,
 1871,First All-India census is conducted
 1878,Vernacular Press Act
 1885,Hindu Indian National Congress is formed
